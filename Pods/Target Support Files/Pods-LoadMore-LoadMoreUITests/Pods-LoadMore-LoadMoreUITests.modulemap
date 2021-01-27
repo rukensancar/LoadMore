@@ -1,0 +1,6 @@
+framework module Pods_LoadMore_LoadMoreUITests {
+  umbrella header "Pods-LoadMore-LoadMoreUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
